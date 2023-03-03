@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Cristian Ion, Software Engineer
+site_url: https://d27f1657.site-45p.pages.dev/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
