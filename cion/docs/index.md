@@ -2,7 +2,7 @@
 
 ## Education
 - Diploma in Computer Science, "Alexandru Ioan Cuza" University of Iasi, Romania, 2014-2017.
-- "Emil Racovita" High School, Mathematics-Informatics profile, Iasi, Romania, 2010-2014.
+- "Emil Racovita" High School, Mathematics-Informatics, Iasi, Romania, 2010-2014.
 
 ## Work
 - Software Engineer I at ~, 2022-Present.
