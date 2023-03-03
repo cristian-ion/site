@@ -1,5 +1,8 @@
 # Cristian Ion
 
+## Interests
+Software development; Backend;
+
 ## Education
 - Diploma in Computer Science, "Alexandru Ioan Cuza" University of Iasi, Romania, 2014-2017.
 - "Emil Racovita" High School, Mathematics-Informatics, Iasi, Romania, 2010-2014.
