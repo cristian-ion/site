@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Cristian Ion
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Education
+- Diploma in Computer Science, "Alexandru Ioan Cuza" University of Iasi, Romania, 2014-2017.
+- "Emil Racovita" High School, Mathematics-Informatics profile, Iasi, Romania, 2010-2014.
 
-## Commands
+## Work
+- Software Engineer at ~, 2022-Present.
+- Senior Software Engineer at Bitdefender, 2020-2022.
+- Software Engineer at Bitdefender, 2017-2020.
+- Junior Software Developer at Bitdefender, 2015-2017.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+e-mail: -
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
