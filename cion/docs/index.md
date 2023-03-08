@@ -1,7 +1,7 @@
 # Cristian Ion
 
 ## Interests
-Software development; Computer science
+Computer science; Software engineering; Machine Learning;
 
 ## Education
 - Diploma in Computer Science, "Alexandru Ioan Cuza" University of Iasi, Romania, 2014-2017.
